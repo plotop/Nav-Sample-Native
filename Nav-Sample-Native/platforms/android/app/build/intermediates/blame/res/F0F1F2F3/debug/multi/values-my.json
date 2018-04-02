@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeF0F1F2F3DebugResources\\merged.dir\\values-my\\values-my.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 212,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "C:\\Users\\temp\\.android\\build-cache\\d7e64c70ab9e350bd67e0ce3333e27103084507e\\output\\res\\values-my\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 212,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 105,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "C:\\Users\\temp\\.android\\build-cache\\187c86626e3b15d50dbd51bcda37a9fe0fe44bf3\\output\\res\\values-my\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 101,
+                        "endOffset": 346
+                    }
+                }
+            }
+        ]
+    }
+]

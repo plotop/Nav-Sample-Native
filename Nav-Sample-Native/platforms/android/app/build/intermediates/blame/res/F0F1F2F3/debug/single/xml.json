@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Apr 02 13:38:01 CEST 2018
+base.0=D\:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1F2F3\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0F1F2F3\\debug\\folders\\1000\\1f\\main\\classes.dex

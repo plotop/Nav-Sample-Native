@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "nativescript-push-notifications@1.0.0",
+      "D:\\Projects\\VisualStudio\\Nav-Sample-Native\\Nav-Sample-Native"
+    ]
+  ],
+  "_from": "nativescript-push-notifications@1.0.0",
+  "_id": "nativescript-push-notifications@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GLtFg1mxAg2oNsK+zg7g0fJUCgSizMuYIRIRswjL9/nI2MWLBmT5yV6z3udpBz8/IdyO5m/S6mpu57llq7g9gw==",
+  "_location": "/nativescript-push-notifications",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-push-notifications@1.0.0",
+    "name": "nativescript-push-notifications",
+    "escapedName": "nativescript-push-notifications",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-push-notifications/-/nativescript-push-notifications-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "D:\\Projects\\VisualStudio\\Nav-Sample-Native\\Nav-Sample-Native",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/push-plugin/issues"
+  },
+  "dependencies": {
+    "nativescript-hook": "0.2.2"
+  },
+  "description": "Receive push notifications in your NativeScript app on Android and iOS.",
+  "devDependencies": {
+    "rimraf": "^2.6.2",
+    "tns-core-modules": "^3.3.0",
+    "tns-platform-declarations": "^3.3.0",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1"
+  },
+  "homepage": "https://github.com/NativeScript/push-plugin",
+  "license": "Apache-2.0",
+  "main": "push-plugin",
+  "name": "nativescript-push-notifications",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0",
+      "android": "3.0.0"
+    },
+    "hooks": [
+      {
+        "type": "before-prepare",
+        "script": "hooks/before-prepare.js",
+        "inject": true
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/push-plugin.git"
+  },
+  "scripts": {
+    "build": "npm i --ignore-scripts && tsc && cd ../publish && ./pack.sh",
+    "ci.tslint": "npm i --ignore-scripts && tslint '**/*.ts' --config ../tslint.json --exclude '**/node_modules/**'",
+    "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-push-notifications && cd ../src",
+    "postinstall": "node scripts/postinstall.js",
+    "preuninstall": "node scripts/preuninstall.js",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\""
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.0"
+}

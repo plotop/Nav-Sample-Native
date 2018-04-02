@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-hdpi\\logo.png",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-hdpi\\background.png",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    }
+]

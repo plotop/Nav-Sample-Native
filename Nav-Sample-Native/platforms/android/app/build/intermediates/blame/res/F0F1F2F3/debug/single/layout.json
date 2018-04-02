@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\list_progress_indicator.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\list_progress_indicator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_radio_group_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_radio_group_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\number_picker.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\number_picker.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_header_layout_2.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_header_layout_2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\navigation_item_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\navigation_item_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\logcat_tab.xml",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\debug\\res\\layout\\logcat_tab.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_layout_3.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_layout_3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_autocomplete_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_autocomplete_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_text_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_text_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_expandable_group_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_expandable_group_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_checkbox_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_checkbox_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\main_menu_list_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\main_menu_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_number_picker.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_number_picker.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\simple_empty_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\1db8ef01959c6578d6bc67f689df6008fa3a138f\\output\\res\\layout\\simple_empty_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_default_group_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_default_group_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_rad_autocomplete_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_rad_autocomplete_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_list_editor_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_list_editor_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\trial_message.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\416ad9bb03715fa4dc0b376c27321c9f771fd5f8\\output\\res\\layout\\trial_message.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_linear_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_linear_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\main_menu_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\main_menu_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_header_layout_3.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_header_layout_3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_tooltip_ohlc_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\default_tooltip_ohlc_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\feedback_comment.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\feedback_comment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\tooltip_container.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\tooltip_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\legend_item_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\legend_item_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_root_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_root_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_switch_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_switch_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\simple_group_header_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\1db8ef01959c6578d6bc67f689df6008fa3a138f\\output\\res\\layout\\simple_group_header_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\trackball_container.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\trackball_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_spinner_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_integer_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_integer_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\tab_item_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\tab_item_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_layout_1.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_layout_1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\calendar_all_day_event_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\calendar_all_day_event_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\feedback_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\feedback_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\suggestion_item_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\suggestion_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_label_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_label_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_header_layout_1.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_header_layout_1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\popup_event.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\popup_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\on_demand_automatic.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\1db8ef01959c6578d6bc67f689df6008fa3a138f\\output\\res\\layout\\on_demand_automatic.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\token.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\token.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_group_layout.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_group_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\calendar_day_event_view.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\calendar_day_event_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_seek_bar_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_seek_bar_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_validation_layout_1.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_validation_layout_1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_tooltip_scatter_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\default_tooltip_scatter_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\feedback_indicator.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\feedback_indicator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_trackball_item_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\default_trackball_item_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\inline_event.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\inline_event.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\drawer_blur_fade_layer.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\drawer_blur_fade_layer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_list_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_list_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_spinner_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_spinner_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\activity_send_feedback.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\activity_send_feedback.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\exception_tab.xml",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\debug\\res\\layout\\exception_tab.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\navigation_drawer_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\navigation_drawer_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_trackball_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\default_trackball_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\range_trackball_item_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\range_trackball_item_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\activity_view_feedback.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\activity_view_feedback.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\popup_edit_details.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\popup_edit_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_time_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_time_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\activity_edit_details.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\activity_edit_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_toggle_button_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_toggle_button_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\radchartbase.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\radchartbase.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_date_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_date_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_tooltip_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\layout\\default_tooltip_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\error_activity.xml",
+        "source": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\src\\debug\\res\\layout\\error_activity.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\default_tooltip_scatter_bubble_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\default_tooltip_scatter_bubble_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_segmented_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_segmented_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\fragment_feedback_items.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\fragment_feedback_items.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_text_viewer.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_text_viewer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_editor_layout_2.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_editor_layout_2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\data_form_decimal_editor.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\layout\\data_form_decimal_editor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\activity_view_feedback_item.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\8da15ed525c9dbf59566be2c6d0cf1790a92f44c\\output\\res\\layout\\activity_view_feedback_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\ohlc_trackball_item_content.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\ohlc_trackball_item_content.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\radlegendcontrol.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\b7fc7eb7d5c3371cbdb848dcf6890751825f6ac6\\output\\res\\layout\\radlegendcontrol.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\layout\\abc_dialog_title_material.xml"
+    }
+]

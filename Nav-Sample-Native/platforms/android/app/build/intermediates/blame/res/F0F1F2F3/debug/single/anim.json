@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\drawer_slide_in_top.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\anim\\drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\drawer_slide_out_top.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\3564c5db123f2610a50aea26743648af1648bcfa\\output\\res\\anim\\drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

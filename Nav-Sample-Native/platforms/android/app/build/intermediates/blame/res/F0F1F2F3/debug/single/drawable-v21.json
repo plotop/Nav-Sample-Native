@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\autocomplete_bg_normal.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\drawable-v21\\autocomplete_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\pressable_item_background.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\1db8ef01959c6578d6bc67f689df6008fa3a138f\\output\\res\\drawable-v21\\pressable_item_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\4f069781afe90e312f6b87b373914e6b53ebb53e\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\autocomplete_focusable_bg.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\drawable-v21\\autocomplete_focusable_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\autocomplete_bg_active.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\e61eed1d6bc11c2f057a9c5e03817abf500171d3\\output\\res\\drawable-v21\\autocomplete_bg_active.xml"
+    },
+    {
+        "merged": "D:\\Projects\\VisualStudio\\Nav-Sample-Native-git\\Nav-Sample-Native\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\temp\\.android\\build-cache\\cac21535c7e1b33c4e2483561a08274b9f147b48\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
